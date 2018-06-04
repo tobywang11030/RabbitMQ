@@ -1,0 +1,54 @@
+#the basics
+classes/
+gensrc/
+target/
+/ecomm/hybris/bin/platform
+/data/
+/log/
+/temp/
+*-testclasses.xml
+build.xml
+extensioninfo.xsd
+testclasses
+
+# Eclipse/STS IDE files to ignore
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings/
+.loadpath
+.recommenders
+*.launch
+.classpath
+.externalToolBuilders/
+.springBeans
+
+#numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+
+#OS or Editor Folders
+.DS_Store
+._.DS_Store
+*.idea
+*.eml
+*.iml
+Thumbs.db
+.cache
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+.lastupdate
+eclipsebin/
